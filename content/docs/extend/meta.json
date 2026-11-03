@@ -1,0 +1,5 @@
+{
+  "title": "能力扩展",
+  "icon": "Blocks",
+  "pages": ["expert", "skills", "connector", "library", "automation", "mcp"]
+}

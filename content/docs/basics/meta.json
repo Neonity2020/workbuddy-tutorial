@@ -1,0 +1,6 @@
+{
+  "title": "核心用法",
+  "icon": "MousePointerClick",
+  "defaultOpen": true,
+  "pages": ["task", "conversation", "management", "results", "permissions"]
+}

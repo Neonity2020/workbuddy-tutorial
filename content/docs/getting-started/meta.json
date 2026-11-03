@@ -1,0 +1,6 @@
+{
+  "title": "入门",
+  "icon": "Rocket",
+  "defaultOpen": true,
+  "pages": ["installation", "first-task", "interface"]
+}
